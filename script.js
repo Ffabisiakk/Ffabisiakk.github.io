@@ -1,4 +1,3 @@
-```
 $(document).ready(function() {
   const apiRoot = 'https://sheltered-atoll-52057.herokuapp.com/v1/task/';
   const trelloApiRoot = 'https://sheltered-atoll-52057.herokuapp.com//v1/trello/';
