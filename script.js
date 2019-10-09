@@ -1,7 +1,7 @@
 ```
 $(document).ready(function() {
-  const apiRoot = 'https://ffabisiakk.github.io//v1/task/';
-  const trelloApiRoot = 'https://ffabisiakk.github.io//v1/trello/';
+  const apiRoot = 'https://sheltered-atoll-52057.herokuapp.com/v1/task/';
+  const trelloApiRoot = 'https://sheltered-atoll-52057.herokuapp.com//v1/trello/';
   const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   const $tasksContainer = $('[data-tasks-container]');
 
